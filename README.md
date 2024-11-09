@@ -37,7 +37,7 @@
 
 <!-- View the Project -->
 <p align="center">
-     <a href="https://guhenriquesantos.github.io/EasyShoppingViaMobile-HTML5-CSS/">📱 View the Project</a>
+     <a href="https://gustavo-santos-dev.github.io/EasyShoppingViaMobile-HTML5-CSS/">📱 View the Project</a>
 </p>
 
 <br>
