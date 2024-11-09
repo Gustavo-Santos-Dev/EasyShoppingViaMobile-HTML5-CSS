@@ -1,118 +1,119 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=54547d">
 
-<!--- Logo Easy Shopping -->
+<!-- Easy Shopping Logo -->
 <div align=center>
-  <img width=40% height=auto src="https://raw.githubusercontent.com/GuHenriqueSantos/EasyShoppingViaMobile-HTML5-CSS/a85ebb66af8770ce0a0781e7a8ad4c4976b3f180/assets/Woman-CellPhone.svg" />
+  <img width=30% height=auto src="https://raw.githubusercontent.com/Gustavo-Santos-Dev/EasyShoppingViaMobile-HTML5-CSS/de7d0dfcbdd7f034bc489aaf8a338bf560ead3a4/assets/Woman-CellPhone.svg" />
 </div>
 
 <br>
 
 <h1>
-<!--- Titulo do projeto -->
+<!-- Project title -->
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&height=65&weight=500&size=45&duration=4000&pause=1000&color=FFF&center=true&vCenter=true&random=false&width=1000&lines=🛒+Easy+Shopping+Via+Mobile)](https://git.io/typing-svg)
 </h1>
 
-<!--- Badges de "Bem vindo!" e "Feito por..." -->
+<!-- "Welcome!" and "Made by..." badges -->
 <div width=auto height=auto align=center>
-  <img src="https://img.shields.io/badge/Seja%20Bem%20Vindo!-54547d" />
+  <img src="https://img.shields.io/badge/%20Welcome!-54547d" />
   <img width="3">
-  <img src="https://img.shields.io/badge/Criado%20%E2%99%A5%20por-GuHenriqueSantos-8f97ba.svg?style=flat-square)](https://github.com/dec0dOS" />
+  <img src="https://img.shields.io/badge/Made%20%E2%99%A5%20by-GustavoSantos-8f97ba.svg?style=flat-square)](https://github.com/dec0dOS" />
 </div>
 
 <br>
 
-<!--- Indice com links de referencia -->
+<!-- Index with reference links -->
 <p align="center">
- <a href="#tec">Tecnologias</a> • 
- <a href="#sobre">Sobre o Projeto</a> • 
- <a href="#colab">Colaboradores</a>
+ <a href="#tec">Technologies</a> • 
+ <a href="#project">About the Project</a> • 
+ <a href="#contributors">Contributors</a>
 </p>
 
-<!--- Pequena descrição do projeto -->
+<!-- Brief description of the project -->
 <p align="center">
-    <b>"Easy Shopping Via Mobile" melhora a experiência de compra online em dispositivos móveis 
-<br> com um design responsivo e interface amigável.<b/>
+  <b>"Easy Shopping Via Mobile" improves the online shopping experience on mobile devices 
+  <br> with a responsive design and user-friendly interface.</b>
 </p>
 
-<!--- Link do projeto -->
+<!-- View the Project -->
 <p align="center">
-     <a href="https://guhenriquesantos.github.io/EasyShoppingViaMobile-HTML5-CSS/">📱 Viste o Projeto</a>
-</p>
-
-<br>
-
-<!--- Imagens do projeto -->
-<h2 id="layout">🎨 Layout</h2>
-<p align="center">
-    <img src="https://github.com/GuHenriqueSantos/EasyShoppingViaMobile-HTML5-CSS/blob/main/assets/README-EasyShopping.png?raw=true" alt="Imagem-Do-Projeto" width="80%">
+     <a href="https://guhenriquesantos.github.io/EasyShoppingViaMobile-HTML5-CSS/">📱 View the Project</a>
 </p>
 
 <br>
 
-<!--- Tecnologias utilizadas -->
-<h2 width="3" id="tec">💻 Tecnologias utilizadas</h2>
+<!--- Project Screenshots -->
+<h2 id="layout">🎨 Project Screenshots</h2>
+<p align="center">
+    <img src="https://github.com/Gustavo-Santos-Dev/EasyShoppingViaMobile-HTML5-CSS/blob/master/assets/README-EasyShopping.png?raw=true" alt="Project-Screenshots" width="80%">
+</p>
+
+<br>
+
+<!-- Technologies Used -->
+<h2 id="tec">💻 Technologies Used</h2>
 
 <img height="auto" width="30" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
-<img width="3">
 <img height="auto" width="30" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
 
 <br>
 <br>
 
-Este projeto foi desenvolvido como parte das aulas de HTML, CSS, Git e GitHub do curso DevClub. Utilizamos as seguintes tecnologias:
+This project was developed as part of the HTML, CSS, Git, and GitHub lessons from the DevClub course. I used the following technologies:
 
-- HTML e HTML5: Estruturação do conteúdo da página.
-- CSS: Estilização avançada e moderna para criar um design atraente e responsivo.
+- HTML and HTML5: Structuring the page content.
+- CSS: Advanced and modern styling to create an attractive and responsive design.
 
 <br>
 
-<!---Sobre o projeto -->
-<h2 id="sobre">🚀 Sobre o Projeto</h2>
-<p>O projeto "Easy Shopping Via Mobile" foi desenvolvido como parte de um desafio do curso DevClub, com o objetivo de facilitar a experiência de compra online via dispositivos móveis. Com um design moderno e responsivo, a plataforma oferece uma navegação intuitiva e uma interface amigável para usuários que desejam realizar compras de maneira rápida e eficiente. Vale ressaltar que este é um projeto fictício e, por enquanto, não possui interações com JavaScript.<p/>
+<!-- About the project -->
+<h2 id="project">🚀 About the project</h2>
+<p>The "Easy Shopping Via Mobile" project was developed as part of a challenge in the DevClub course. With a modern and responsive design, the platform offers intuitive navigation and a user-friendly interface. It’s important to note that this is a fictional project and, for now, it doesn’t include any JavaScript interactions.</p>
 
-<b>Funcionalidades 🌟<b/>
+<b>Features 🌟</b>
 <p>
+  
+- Responsive Design: Optimized for mobile devices.
 
-- Design Responsivo: Otimizado para dispositivos móveis.
+- Intuitive Interface: Facilitates navigation.
 
-- Interface Intuitiva: Facilita a navegação e a experiência de compra.
+- Interactive Features: Enhance usability and user interaction.
+</p>
 
-- Funcionalidades Interativas: Melhoram a usabilidade e a interação do usuário.</p>
 <br>
 
-<!--- Pré requisitos -->
-<h3>⚙️ Pré-requisitos</h3>
+<!-- Prerequisites -->
+<h3>⚙️ Prerequisites</h3>
 
-Antes de clonar o código, certifique-se de ter as seguintes ferramentas instaladas:
+Before cloning the code, make sure you have the following tools installed:
 
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [Git](https://git-scm.com/)
 
 <br>
 
-<h3>📥 Clonando o Repositório</h3>
-<p>Siga os passos abaixo para clonar este projeto:<p>
+<h3>📥 Cloning the Repository</h3>
+<p>Follow the steps below to clone this project:</p>
 
 <br>
 
-1. Clone o Repositório:
+1. Clone the Repository:
 ```bash
-git clone https://github.com/GuHenriqueSantos/EasyShoppingViaMobile-HTML5-CSS.git
+git clone https://github.com/Gustavo-Santos-Dev/EasyShoppingViaMobile-HTML5-CSS.git
 ```
 
-2. Entre no Diretório do Projeto:
+2. Enter the Project Directory:
 ```bash
 cd EasyShoppingViaMobile-HTML5-CSS
-````
+```
 
 <br>
 
-<h2 id="colab">🤝 Colaboradores</h2>
+<h2 id="contributors">🤝 Contributors</h2>
 
-Agradecimentos especiais ao Rodolfo Mori, instrutor do DevClub, por seu ensino e orientação nas aulas de HTML, CSS, GitHub e Git, que foram essenciais para a realização deste projeto.
+Special thanks to Rodolfo Mori, DevClub instructor, for his teaching and guidance in the HTML, CSS, GitHub, and Git lessons, which were essential for the completion of this project.
 
-<table id="Colaboradores">
+<table id="contributors">
   <tr>
     <td align="center">
       <a href="#">
