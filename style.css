@@ -1,0 +1,112 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "Oswald", sans-serif;
+}
+
+.wrapper {
+    height: 100vh;
+    width: 100vw;
+}
+
+/* Seção esquerda*/
+.section-1 {
+    display: inline-block;
+    width: 60%;
+    margin-top: 370px;
+    padding-left: 80px;
+
+    /* Titulo principal/primário */
+    .main-title {
+        width: 368px;
+        height: 160px;
+        font-size: 70px;
+        font-weight: 400;
+        line-height: 80px;
+        color: rgba(93, 93, 125, 1);
+    }
+
+    /* Paragráfo principal */
+    .main-paragraph {
+        font-size: 28px;
+        font-weight: 400;
+        line-height: 48px;
+        text-align: left;
+        width: 540px;
+        height: 144px;
+        opacity: 0.6px;
+        color: rgba(93, 93, 125, 1);
+        opacity: 60%;
+        margin-top: 15px;
+    }
+
+    /* Botão de 'iniciar' */
+    .start-button {
+        width: 269px;
+        height: 62px;
+        background: rgba(148, 153, 234, 1);
+        box-shadow: 0px 10px 24px 0px rgba(148, 153, 234, 0.1);
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 35.57px;
+        text-align: center;
+        border: none;
+        color: #ffffff;
+        border-radius: 50px;
+        margin-top: 15px;
+        filter: drop-shadow(1px 1px 2px #000000a9);
+        cursor: pointer;
+        transition: transform .2s;
+    }
+
+    .start-button:hover {
+        opacity: 80%;
+        transform: scale(1.05);
+    }
+
+    .start-button:active {
+        opacity: 40%;
+    }
+}
+
+/* Seção direita */
+.section-2 {
+    display: inline-block;
+    background: rgba(93, 93, 125, 0.16);
+    height: 100vh;
+    width: 40%;
+    position: absolute;
+
+    /* barra de navegação */
+    .navigation {
+        font-size: 28px;
+        font-weight: 400;
+        line-height: 41.5px;
+        color: rgba(93, 93, 125, 1);
+        height: 41.12px;
+        margin: 24px 0 0 24%;
+    }
+
+    /* links da barra de navegação */
+    .navigation-links {
+        margin-right: 41px;
+        cursor: pointer;
+    }
+
+    .navigation-links:hover {
+        opacity: 80%;
+    }
+
+    .navigation-links:active {
+        opacity: 20%;
+    }
+
+    /* Imagem da seção direita 'Woman-image' */
+    .woman-image {
+        position: relative;
+        right: 18%;
+        top: 16%;
+        filter: drop-shadow(1px 1px 2px #000000a9);
+    }
+}
